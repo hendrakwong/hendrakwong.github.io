@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
 import ThemeToggle from './ThemeToggle';
+import Logo from './Logo';
 
 const navLinks = [
   { name: 'Home', href: '#home' },
@@ -45,7 +46,8 @@ const Navbar: React.FC = () => {
     >
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex justify-between items-center">
-          <a href="#home" className="text-xl md:text-2xl font-bold text-gray-800 dark:text-white">
+          <a href="#home" className="flex items-center text-xl md:text-2xl font-bold text-gray-800 dark:text-white">
+            <Logo />
             Hendra Wong
           </a>
           
