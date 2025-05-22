@@ -8,14 +8,14 @@ const projects = [
     technologies: ['TypeScript', 'NodeJs', 'React', 'AWS Lambda', 'SQS', 'SNS', 'Microservice', 'PostgreSQL', 'Pendo', 'DataDog']
   },
   {
-    title: 'Enterprise Data Analytics Platform',
-    description: 'Led a cross-functional team to build a scalable data analytics platform that reduced reporting time by 65% and enabled real-time business insights across 12 departments.',
-    technologies: ['Python', 'Apache Spark', 'AWS RedShift', 'Tableau', 'React', 'FastAPI', 'Docker', 'Kubernetes']
+    title: 'Enterprise Customer Migration',
+    description: 'Led a cross-functional team to migrate 75K+ enterprise customers to a new platform in 6 months, generating over $120M of revenue and achieving over 65% customer conversion rate.',
+    technologies: ['C#', 'NET Core', 'Ruby', 'Sinatra', 'AWS Lambda', 'SQS', 'SNS', 'Microservice', 'REST API', 'PostgreSQL', 'Okta', 'Looker', 'Amplitude', 'DataDog']
   },
   {
-    title: 'Automated Workflow Engine',
-    description: 'Architected and implemented a workflow automation system that streamlined critical business processes, resulting in 40% operational cost reduction and 3x throughput improvement.',
-    technologies: ['Java', 'Spring Boot', 'Kafka', 'Redis', 'MongoDB', 'React', 'Docker', 'GitLab CI/CD']
+    title: 'Monolith to Microservices Migration',
+    description: 'Architected and executed a monolith to microservices migration strategy for processing background check data provider retrieval, enabling continuous delivery production deployment and observability.',
+    technologies: ['.NET Core', 'C#', 'AWS Lambda', 'PostgreSQL', 'DataDog', 'Feature Flagging', 'Microservice', 'CI/CD', 'Agile', 'Scrum']
   }
 ];
 
