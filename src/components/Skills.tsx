@@ -4,15 +4,15 @@ import SkillCategory from './SkillCategory';
 const skillCategories = [
   {
     title: 'Programming Languages',
-    skills: ['Python', 'JavaScript', 'TypeScript', 'Java', 'Go', 'C#']
+    skills: ['C#', 'JavaScript', 'TypeScript', 'Python', 'Java', 'Ruby', 'Go']
   },
   {
     title: 'Frameworks/Libraries',
-    skills: ['React', 'Node.js', 'Angular', 'Vue.js', 'Spring Boot', 'Django', '.NET']
+    skills: ['.NET', '.NET Core', 'Node.js', 'React', 'Angular', 'Express', 'Flask', 'Ruby on Rails', 'Sinatra']
   },
   {
     title: 'Databases',
-    skills: ['PostgreSQL', 'MongoDB', 'MySQL', 'Redis']
+    skills: ['PostgreSQL', 'MongoDB', 'MySQL', 'SQL Server', 'Redis']
   },
   {
     title: 'Cloud Platforms',
@@ -20,7 +20,7 @@ const skillCategories = [
   },
   {
     title: 'Tools/Methodologies',
-    skills: ['Docker', 'Kubernetes', 'CI/CD', 'Agile', 'Scrum', 'Git']
+    skills: ['Docker', 'Kubernetes', 'CI/CD', 'Agile', 'Scrum', 'Git', 'Feature Flagging', 'Observability', 'Monitoring']
   },
   {
     title: 'Leadership & Management',
