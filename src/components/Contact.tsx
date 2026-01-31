@@ -17,11 +17,11 @@ const Contact: React.FC = () => {
             
             <div className="flex justify-center">
               <a 
-                href="mailto:hendrakwong@gmail.com" 
+                href="mailto:hendra@hendrawong.com" 
                 className="flex items-center justify-center p-4 bg-blue-50 dark:bg-blue-900/30 hover:bg-blue-100 dark:hover:bg-blue-900/50 rounded-lg transition-colors"
               >
                 <Mail className="w-6 h-6 text-blue-600 dark:text-blue-400 mr-3" />
-                <span className="text-gray-800 dark:text-white font-medium">hendrakwong@gmail.com</span>
+                <span className="text-gray-800 dark:text-white font-medium">hendra@hendrawong.com</span>
               </a>
             </div>
           </div>
